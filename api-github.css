@@ -23,7 +23,7 @@ header {
 
 body {
     background-color: #bdbdbd;
-    color: #333;
+    color: #020202;
     font-family: 'Inconsolata', monospace;
     justify-content: space-between;
 }
@@ -43,7 +43,7 @@ form {
     font-family: 'Inconsolata', monospace;
     text-align: left;
     font-size: 18px;
-    padding: 2px 5px;
+    padding: 3px 12px;
     height: 30px;
     width: 20%;
     border: none;
